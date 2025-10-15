@@ -9,6 +9,7 @@ import java.util.Random;
 */
 public class TorpedoStore {
 
+  //részletesebb comment
   //create random number
   private Random generator = new Random();
   
